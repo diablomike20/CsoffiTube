@@ -1,4 +1,4 @@
-# <img src="desktop/icon.png" align="top" height="44"> NouTube
+# <img src="desktop/icon.png" align="top" height="44"> CsoffiTube
 
 Android, iOS, and Desktop app for YouTube and YouTube Music.
 
@@ -10,12 +10,12 @@ Install from F-Droid, or download APK from GitHub.
 [<img src="https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github"
       alt="Get it on GitHub"
       hspace="16"
-      height="50">](https://github.com/nonbili/NouTube/releases/latest)
+      height="50">](https://github.com/diablomike20/CsoffiTube/releases/latest)
 [<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
     alt="Join the iOS beta on TestFlight"
     height="50">](https://testflight.apple.com/join/kkUdF2hV)
 
-Find Linux, macOS, Windows versions in [NouTube-Desktop](https://github.com/nonbili/NouTube-Desktop).
+Find Linux, macOS, Windows versions in [CsoffiTube Desktop](https://github.com/diablomike20/CsoffiTube).
 
 Or use the browser extension on Firefox and Chrome.
 
@@ -48,9 +48,9 @@ Or use the browser extension on Firefox and Chrome.
 
 ## Screenshots
 
-<img src="metadata/en-US/images/phoneScreenshots/1.jpg" width="240" alt="Ad-free playback"> <img src="metadata/en-US/images/phoneScreenshots/2.jpg" width="240" alt="Background playback"> <img src="metadata/en-US/images/phoneScreenshots/3.jpg" width="240" alt="Channel feeds">
+<img src="metadata/en-US/images/phoneScreenshots/1.jpg" width="240" alt="Ad-free playback"> <img src="metadata/en-US/images/phoneScreenshots/2.jpg" width="240" alt="Background playback"> <img src=[...]
 
-<img src="metadata/en-US/images/phoneScreenshots/4.jpg" width="240" alt="Distraction controls"> <img src="metadata/en-US/images/phoneScreenshots/5.jpg" width="240" alt="Content filters"> <img src="metadata/en-US/images/phoneScreenshots/6.jpg" width="240" alt="Playback controls">
+<img src="metadata/en-US/images/phoneScreenshots/4.jpg" width="240" alt="Distraction controls"> <img src="metadata/en-US/images/phoneScreenshots/5.jpg" width="240" alt="Content filters"> <img src=[...]
 
 [Android and iOS store screenshots](metadata/en-US/screenshots/README.md)
 

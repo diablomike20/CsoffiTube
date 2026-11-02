@@ -1,6 +1,6 @@
-# NouTube App Store preview
+# CsoffiTube App Store preview
 
-The revised cut is `noutube-app-store-preview-v2.mp4`, with `poster-v2.jpg`
+The revised cut is `csoffitube-app-store-preview-v2.mp4`, with `poster-v2.jpg`
 and `preview-sheet-v2.jpg` for review. It leads with ad blocking,
 SponsorBlock, background playback, channel feeds without a YouTube account,
 and content filters. The feed scene uses live NASA channel uploads. The
@@ -13,10 +13,10 @@ Render the revised cut with:
 python3 metadata/en-US/app-preview/render.py --variant v2 --poster-time 10
 ```
 
-`noutube-app-store-preview.mp4` is the original cut. `poster.jpg` is
+`csoffitube-app-store-preview.mp4` is the original cut. `poster.jpg` is
 the suggested poster frame, taken at 00:02 in the finished video.
 
-The video uses actual NouTube screen recordings from an iPhone 17 Pro
+The video uses actual CsoffiTube screen recordings from an iPhone 17 Pro
 simulator running iOS 26.2. Captions are burned in for muted autoplay. The
 soundtrack is an original synthesized instrumental made by `render.py`; none
 of the audio from the videos being demonstrated is included.
@@ -50,7 +50,7 @@ Flight Center:
 NASA SVS permits reuse of these visualizations without their separately
 licensed audio; see its [usage guidance](https://svs.gsfc.nasa.gov/help/).
 The preview includes an onscreen visualization credit. NASA is not affiliated
-with or endorsing NouTube.
+with or endorsing CsoffiTube.
 
 The revised video and twelve iPhone/iPad screenshots were uploaded to the
 English localization of App Store Connect version 0.6.13. Apple completed asset
