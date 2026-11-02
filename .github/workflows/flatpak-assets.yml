@@ -1,6 +1,7 @@
 name: Prepare flatpak assets
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - release-desktop
