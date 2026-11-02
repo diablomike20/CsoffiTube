@@ -1,31 +1,15 @@
 # <img src="desktop/icon.png" align="top" height="44"> CsoffiTube
 
-Android, iOS és asztali alkalmazás YouTube és YouTube Music számára.
+Android, iOS és asztali alkalmazás a YouTube és YouTube Music számára.
 
-Telepítés: F-Droid, vagy letöltés APK-ként a GitHubról.
+Letöltés: közvetlenül a GitHub Release oldalról.
 
-[<img src="https://img.shields.io/badge/F--Droid-1976D2?style=for-the-badge&logo=f-droid"
-    alt="Get it on F-Droid"
-    height="80">](https://f-droid.org/packages/jp.nonbili.noutube)
 [<img src="https://img.shields.io/badge/GitHub%20Releases-100000?style=for-the-badge&logo=github"
-      alt="Keresés a GitHubon"
+      alt="GitHub Releases"
       hspace="16"
       height="50">](https://github.com/diablomike20/CsoffiTube/releases/latest)
-[<img src="https://img.shields.io/badge/TestFlight-0D96F6?style=for-the-badge&logo=appstore&logoColor=white"
-    alt="Csatlakozás az iOS bétához TestFlightben"
-    height="50">](https://testflight.apple.com/join/kkUdF2hV)
 
-A Linux, macOS és Windows változatokat a [CsoffiTube Desktop](https://github.com/diablomike20/CsoffiTube-Desktop) repositoryban találod.
-
-Vagy használd a böngésző bővítményt Firefoxra és Chrome-ra.
-
-[<img src="https://img.shields.io/badge/Firefox%20Add--ons-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white"
-    alt="Telepítés Firefoxhoz"
-    height="50">](https://addons.mozilla.org/addon/noutube/)
-[<img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Telepítés a Chrome Web Store-be"
-      hspace="16"
-      height="50">](https://chromewebstore.google.com/detail/noutube/cpmippodfdmialcoaegbbmhpdamodoif)
+A Linux, macOS és Windows változatok a [CsoffiTube Desktop](https://github.com/diablomike20/CsoffiTube-Desktop) repositoryban érhetők el.
 
 ## Funkciók
 
