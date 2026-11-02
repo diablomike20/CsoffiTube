@@ -1,6 +1,7 @@
 name: Build desktop
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - release-desktop
